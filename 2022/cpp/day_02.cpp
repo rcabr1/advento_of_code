@@ -12,10 +12,7 @@ int main () {
 		pointsPart2 += mapperPart2[abc - 'A'][xyz - 'X'];
 	}
 
-	// Parte 1
 	printf ("%d\n", pointsPart1);
-
-	// Parte 2
 	printf ("%d\n", pointsPart2);
 
 	return 0;
