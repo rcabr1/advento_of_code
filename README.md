@@ -1,4 +1,4 @@
-# Advento-of-Code
+# Advento of code
 Implementação de algumas soluções para os problemas criados em Advento Of Code
 
 ## Links
